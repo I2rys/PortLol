@@ -39,7 +39,7 @@ function Initiate_A_Request(name, port){
 //Main
 if(Self_Args.length == 0){
     console.log(`node index.js <url>
-Example: node index.js https://192.168.0.1`)
+Example: node index.js http://192.168.0.1`)
     process.exit()
 }
 
