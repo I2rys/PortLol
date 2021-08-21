@@ -1,0 +1,80 @@
+{
+    "ports": [
+        {
+            "name": "HTTP/HTTPS",
+            "port": 80
+        },
+        {
+            "name": "HTTP/HTTPS",
+            "port": 8080
+        },
+        {
+            "name": "HTTP/HTTPS",
+            "port": 443
+        },
+        {
+            "name": "HTTP/HTTPS",
+            "port": 8443
+        },
+        {
+            "name": "HTTP/HTTPS",
+            "port": 443
+        },
+        {
+            "name": "FTP",
+            "port": 21
+        },
+        {
+            "name": "SSH",
+            "port": 22
+        },
+        {
+            "name": "TELNET",
+            "port": 23
+        },
+        {
+            "name": "SNMP",
+            "port": 161
+        },
+        {
+            "name": "IMAP",
+            "port": 143
+        },
+        {
+            "name": "IMAP",
+            "port": 993
+        },
+        {
+            "name": "SMTP",
+            "port": 25
+        },
+        {
+            "name": "SIP",
+            "port": 5060
+        },
+        {
+            "name": "RTSP",
+            "port": 554
+        },
+        {
+            "name": "DNS",
+            "port": 53
+        },
+        {
+            "name": "NTP",
+            "port": 123
+        },
+        {
+            "name": "BGP",
+            "port": 179
+        },
+        {
+            "name": "ISAKMP",
+            "port": 500
+        },
+        {
+            "name": "RDP",
+            "port": 3389
+        }
+    ]
+}
